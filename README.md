@@ -2,7 +2,7 @@
 GXDE's DTK5 libraries. Please note that this package conflicts with Deepin's DTK5.
 
 ## Version
-| flake attr | 上游 | pin | out 内容 | dev 内容 |
+| flake attr | Upstream | pin | out | dev |
 | --- | --- | --- | --- | --- |
 | `dtk5common` | GXDE-OS/dtk5common | tag `6.7.43` | `share/dsg/configs/` | `lib/cmake/{Dtk,Dtk6,DtkBuildHelper}` |
 | `dtklog` | GXDE-OS/dtklog | tag `6.7.43` | `libdtklog.so.0*` | `include/dtk5/DLog`、cmake、pc、qmake |
